@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sharing_Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_">List_Activity</string>
+    <string name="title_activity_popup__list">Popup_List</string>
+    <string name="title_activity_list__example">List_Example</string>
+</resources>

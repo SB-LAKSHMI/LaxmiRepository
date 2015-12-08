@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">welcome</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_camcam">camcam</string>
+    <string name="title_activity_camera_">Camera_Activity</string>
+    <string name="title_activity_camactivity">camactivity</string>
+    <string name="title_activity_intent__chooser">Intent_Chooser</string>
+
+
+</resources>
